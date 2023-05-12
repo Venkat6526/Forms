@@ -1,0 +1,30 @@
+
+
+table ,th ,td{
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-collapse:collapse ;
+  
+}
+.heading , .main ,.heading1{
+  border: 1px solid black;
+  margin: 10px;
+}
+.sub{
+  padding-left: 10px;
+}
+.sub2{
+  padding-left: 90px;
+  padding-right: 8px;
+}
+.sub3{
+  padding-left: 50px;
+  padding-right: 8px;
+}
+.heading1{
+  padding-left: 15px;
+}
+.h2{
+  text-align: center;
+}
+
