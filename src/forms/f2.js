@@ -110,7 +110,7 @@ const f2 = () => {
       <td ><input type="radio" name='(a) enjoined you in connection with any investment- related activity?' value="YES"/></td>
       <td ><input type="radio" name='(a) enjoined you in connection with any investment- related activity?' value="NO" /></td> 
       </tr>
-      <tr><td className='sub2'>(b) found that ypu wrer involved ina violation of any investment-related statute(s) or regulation(s)? </td><td ><input type="radio" name='(b) found that ypu wrer involved ina violation of any investment-related statute(s) or regulation(s)? ' value="YES"/></td>
+      <tr><td className='sub2'>(b) found that you were involved in a violation of any investment-related statute(s) or regulation(s)? </td><td ><input type="radio" name='(b) found that ypu wrer involved ina violation of any investment-related statute(s) or regulation(s)? ' value="YES"/></td>
       <td ><input type="radio" name='(b) found that ypu wrer involved ina violation of any investment-related statute(s) or regulation(s)? ' value="NO" /></td> 
       </tr>
       <tr><td className='sub2'>(c) dismissed, pursuant to a settlement agreement, an investment-related civil action brought against you by a state or foreign financial regulatory authority?</td><td ><input type="radio" name='(c) dismissed, pursuant to a settlement agreement, an investment-related civil action brought against you by a state or foreign financial regulatory authority?' value="YES" /></td>
