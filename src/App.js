@@ -6,7 +6,7 @@ import F3 from './forms/f3';
 function App() {
   return (
    <div>
-    <F1/>
+    <F2/>
 
    </div>
   );

@@ -34,3 +34,27 @@ table ,th ,td{
 .sub4{
   padding-left: 45px;
 }
+.bluehead{
+  text-align: end;
+  background-color: blue;
+  color: white;
+  height: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.head2{
+  margin-top: -15px;
+  text-align: end;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.mainTable{
+  margin-top: -10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: rgb(208, 208, 208);
+}
+.headerborder{
+  border: 1px solid black;
+  width: 50%;
+}
